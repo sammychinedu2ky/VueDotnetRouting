@@ -1,6 +1,8 @@
 <template>
   <h1>About me</h1>
-  <router-link to="/">Go to Home</router-link>
+  <router-link to="/">
+    Go to Home
+  </router-link>
 </template>
 
 <script>
